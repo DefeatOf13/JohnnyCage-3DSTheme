@@ -14,4 +14,4 @@ Credits:
 
 Created using [Usagi3DS](https://github.com/usagirei/3DS-Theme-Editor)
 
-Themeplaza page: https://themeplaza.art/item/92444
+Themeplaza page: https://themeplaza.art/item/92470
